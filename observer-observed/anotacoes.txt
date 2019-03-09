@@ -1,0 +1,12 @@
+Observado:
+registrar observador
+entregar dados
+apagar observador
+notificar observadores
+alterar dado
+
+Observador:
+alterar dados
+solicitar dados
+inicializar
+terminar
